@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "896286332308",
+    "project_id": "event-checkin-51cae",
+    "storage_bucket": "event-checkin-51cae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896286332308:android:a3cb5dee1f88cc38c52b81",
+        "android_client_info": {
+          "package_name": "in.easycloud.event_checkin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkqKqLQ3zuL6rttpX-iHaoxByHNaeERwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
